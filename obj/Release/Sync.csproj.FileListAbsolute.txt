@@ -1,0 +1,15 @@
+D:\Study\MasterThesis\source\Sync\bin\Release\Sync.exe.config
+D:\Study\MasterThesis\source\Sync\bin\Release\Sync.exe
+D:\Study\MasterThesis\source\Sync\bin\Release\Sync.pdb
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync.csprojResolveAssemblyReference.cache
+D:\Study\MasterThesis\source\Sync\obj\Release\MainWindow.g.cs
+D:\Study\MasterThesis\source\Sync\obj\Release\App.g.cs
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync_MarkupCompile.cache
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync_MarkupCompile.lref
+D:\Study\MasterThesis\source\Sync\obj\Release\MainWindow.baml
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync.g.resources
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync.Properties.Resources.resources
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync.csproj.GenerateResource.cache
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync.csproj.CoreCompileInputs.cache
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync.exe
+D:\Study\MasterThesis\source\Sync\obj\Release\Sync.pdb
